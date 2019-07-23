@@ -1,0 +1,46 @@
+body
+{
+    background-color:rgb(255, 255, 255);
+}
+
+h1,td
+{
+    font-family:Verdana;
+    padding:20px;
+}
+
+section
+{
+     background-color:#FFFFFF;
+}
+
+table
+{
+     border-collapse: collapse;
+     width: 55em;
+     border: 1px solid #666;
+}
+
+thead
+{
+    background:#F8F8FF;
+  border-top: 1px solid #a5a5a5;
+  border-bottom: 1px solid #a5a5a5;
+}
+
+tr:hover 
+{
+    background-color:#228B22;
+    color:#fff;
+}
+
+thead tr:hover
+{
+    background-color: trasnaprent;
+    color: inherit;
+}
+
+th, td
+{
+    padding:  1em;
+}
